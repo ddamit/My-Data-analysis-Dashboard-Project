@@ -18,3 +18,12 @@ In this project, I analyzed the annual sales and customer data of Shree Radhe Ga
 ### Dasboard Interaction :
 <a href = "https://github.com/ddamit/My-Data-analysis-Dashboard-Project/blob/main/Screenshot%20(167).png">view Dashboard</a>
 
+### Process
+- Verify Data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistant and clean with respect to data type, data formate and values used.
+- created pivot table according to the question asked.
+- Merge all pivot table into one dashboard and apply slicer to make dynamic.
+### Dashboard:
+<img width="1833" height="729" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/66e7bbf8-9d68-44d1-8778-6bb644ebc249" />
+
+
