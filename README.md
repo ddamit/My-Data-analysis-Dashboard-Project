@@ -26,4 +26,13 @@ In this project, I analyzed the annual sales and customer data of Shree Radhe Ga
 ### Dashboard:
 <img width="1833" height="729" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/66e7bbf8-9d68-44d1-8778-6bb644ebc249" />
 
+ ## Project Insights
+- Women contributed to ~65% of the total purchases
+- Maharashtra, Karnataka, and UP are top 3 sales contributors (~35%)
+- Age group 30–49 years contributed ~80% of orders
+- Amazon, Flipkart & Myntra together made up ~80% of total sales
+
+## Final Recommendation Shree Radhe Garments
+Target women aged 30–49 in Maharashtra, Karnataka, and UP with more offers, coupons, and ads on Amazon, Flipkart, and Myntra.
+
 
